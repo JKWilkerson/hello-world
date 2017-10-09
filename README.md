@@ -1,7 +1,7 @@
 # hello-world
 getting started with documentation
 
-Inital focus of project: bringing GitHub project over to Read the Docs.
+Initial focus of project: bringing GitHub project over to Read the Docs.
 
 Creating documentation on using calibre to make/modify/customize an ebook to match personal preferences and vendor standards (chiefly Amazon).
 
